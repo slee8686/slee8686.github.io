@@ -1,0 +1,5 @@
+<!DOCTYPE HTML> 
+<h1>GIS Web Mapping</h1> 
+<p>I am learning html. This is my first web page.</p>
+<h2>My favorite geography-related philosophy quote.</h2>
+<p>"Where are you coming from? To where are you going?"--Plato</p>

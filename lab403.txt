@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<h1>GIS Web Mapping</h1>
+<p>I am learning html. This is my first web page.</p>
+<h2>My favorite geography-related philosophy quote.</h2>
+<p>"Where are you coming from? To where are you going?"--Plato</p>
+<img src="https://m.media-amazon.com/images/I/911pgr70IFL._AC_UY218_.jpg" alt="Phaedrus Cover Image">
+<a href="https://read.amazon.com/kp/embed?asin=B0C69V7TFZ&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Q3W9241MJ9BNKQR5W8KF">Plato's Phaedrus on Amazon Book Store</a>
+<h3>Example Table: Contact List for Imaginary Company</h3>
+<table>
+<tr>
+  <th>Company</th>  
+  <th>Contact Name</th>
+  <th>Email</th>
+  <th>Phone</th>
+  </tr>
+<tr>
+  <td>Widget Corp</td>
+  <td>Will Smidget</td>
+  <td>Wsmidget@widget.com</td>
+  <td>525-0000</td> 
+</tr>
+<tr>
+  <td>Always Latte LLC</td>
+  <td>Mike Ochoa</td>
+  <td>Mochoa@alatte.com</td>
+  <td>666-5280</td> 
+</tr>
+<tr>
+  <td>PannaCon Securities</td>
+  <td>Faye Lorentine</td>
+  <td>Floren@Panna.com</td>
+  <td>987-6543</td>  
+</tr><tr>
+  <td>Sketch Maps</td>
+  <td>Giselle Bumpkin</td>
+  <td>Gis.Bumpkin@Sketch.com</td>
+  <td>555-1234</td> 
+</tr>
